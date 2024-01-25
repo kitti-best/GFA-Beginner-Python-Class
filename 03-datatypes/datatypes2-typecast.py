@@ -13,8 +13,6 @@ name = "Kittipan"
  
 age = int(age_str)
 
-
-
 number_in_string = "748.45"
 number_in_float = float(number_in_string)
 float_to_int = int(number_in_float)
