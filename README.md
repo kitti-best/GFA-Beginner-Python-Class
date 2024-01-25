@@ -38,6 +38,7 @@
     - Variable scope
     - How to use your own function
 ## Start on advance assignment
+    - https://github.com/kitti-best/GFA-Python-Assignment
 
 ## Class references
 - Learn Python Tutorial | Python Programming Language - javatpoint
