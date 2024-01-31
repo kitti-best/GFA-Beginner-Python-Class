@@ -1,5 +1,5 @@
-a = 29
+a = 7
 b = 3
-remainder = a % b
+remainder = a // b
 print(remainder)
 
