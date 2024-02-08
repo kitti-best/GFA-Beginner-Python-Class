@@ -1,12 +1,8 @@
-age = 13
+age = int(input("Your age : "))
 
-# if else
-# the age is below 7 
 if age < 7:
-    print("You get the ticket for free")
-# the age is 7 - 13
-elif age >= 7 and age <= 13: 
-    print("Your ticket is 15$")
+    print("You get free ticket")
+elif age < 18:
+    print("You get the ticket for 15$")
 else:
-    print("Your ticket is 20$")
-
+    print("You get the ticket for 20$")

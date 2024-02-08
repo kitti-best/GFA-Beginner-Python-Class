@@ -1,9 +1,8 @@
-# program check the age of the user if  he is eligible for TikTok registration
-age = 10
-
-if age >= 13: # group the instruction after the condition with indentation
+age = int(input("Age of you : "))
+# if the user is 13 years old or above allow them
+if age >= 13:
     print("You're allow")
-    print("A")
 
-print("program end")
+print("Please enjoy using tiktok")
+
 
