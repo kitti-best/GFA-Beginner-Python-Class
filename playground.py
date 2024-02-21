@@ -1,2 +1,2 @@
-name = input("Name : ")
-print(type(name))
+for i in range(1, 5):
+    print(i)
